@@ -1,0 +1,10 @@
+name: ColoredChat
+main: com.cyber.coloredChat.ColoredChat
+version: 0.1
+authors:
+    - CyberDrain
+description: Adds colors to the chat
+commands:
+    colors:
+        description: Basic command
+        aliases: [colours]
