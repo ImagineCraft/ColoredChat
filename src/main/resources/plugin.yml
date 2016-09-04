@@ -1,6 +1,6 @@
 name: ColoredChat
 main: com.cyber.coloredChat.ColoredChat
-version: 0.1
+version: ${project.version}
 authors:
     - CyberDrain
 description: Adds colors to the chat

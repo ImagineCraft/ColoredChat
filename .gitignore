@@ -3,3 +3,5 @@ build/
 dist/
 manifest.mf
 nbproject/
+.idea/
+target/
